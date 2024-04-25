@@ -15,7 +15,7 @@ from email.mime.multipart import MIMEMultipart
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '6643504969:AAHq9JX5-Zr2f8qGU_wNXexI2KN8069EQe4'
+API_TOKEN = ******************* #Подставьте свой
 
 bot = Bot(token=API_TOKEN)
 storage = MemoryStorage()
